@@ -8,4 +8,10 @@ public class SoccerCoach implements Coach {
 		return "Kick 30 penalty per day";
 	}
 
+	@Override
+	public String getDailyFortune() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
 }
