@@ -8,6 +8,10 @@ public class TrackCoach implements Coach {
 		this.fortuneService = fortuneService;
 	}
 
+	public TrackCoach() {
+		// TODO Auto-generated constructor stub
+	}
+
 	@Override
 	public String getDailyWorkout() {
 		
